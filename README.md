@@ -1,4 +1,4 @@
-# Calculadora IMC
+# Fuel Calculator
 Esse projeto é um aplicativo android nativo desenvolvido com a linguagem kotlin, tem como principal funcionalidade fazer o cálculo de combustivel para viagens e mostrar o valor que será necessário abastecer na tela final.
 
 ## :camera_flash: Screenshots
