@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="description">Calculadora de gasto de combustível</string>
+    <string name="info">Não tem ideia de quanto vai gastar de gasolina na sua viagem? Então está no lugar certo!</string>
+    <string name="fuel_price">Preço do combustível:</string>
+    <string name="car_consumption">Consumo do carro:</string>
+    <string name="destination_distance">Distância até o destino:</string>
+    <string name="step_1">Passo 1 de 3</string>
+    <string name="step_2">Passo 2 de 3</string>
+    <string name="step_3">Passo 3 de 3</string>
+    <string name="btn_start">Iniciar</string>
+    <string name="btn_next">Próximo</string>
+    <string name="btn_result">Resultado</string>
+    <string name="btn_new_calc">Novo Cálculo</string>
+    <string name="revision">Revisão dos dados inseridos</string>
+    <string name="price">Preço:</string>
+    <string name="consumption">Comsumo:</string>
+    <string name="km">Km:</string>
+    <string name="car">Icone de um carro</string>
+    <string name="gas">Icone de um posto de gasolina</string>
+    <string name="consumption_car">Icone de consumo de combustivel do carro</string>
+    <string name="car_distance">Icone de distância até o destino</string>
+    <string name="btn_back">Botão voltar</string>
+    <string name="price_input_hint">Ex: 1.20</string>
+    <string name="consumption_input_hint">Ex: 5 Km/L</string>
+    <string name="distance_input_hint">Ex: 20.3 Km</string>
+
+</resources>
